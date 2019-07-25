@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/01 18:12:38.000.684,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/11 08:12:02.000.256,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/18 15:06:23.000.052,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/18 15:09:28.000.203,C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Arthur\Documents\Delphi_Curso\005_Cadastro\ufrmCadastro.pas</Transaction>
+    <Transaction>2019/05/18 15:09:28.000.203,C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Arthur\Documents\Delphi_Curso\005_Cadastro\ufrmCadastro.dfm</Transaction>
+    <Transaction>2019/05/18 15:09:36.000.230,C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Arthur\Documents\Delphi_Curso\005_Cadastro\Cadastro.dproj</Transaction>
+    <Transaction>2019/05/18 15:09:59.000.272,=C:\Users\Arthur\Documents\Delphi_Curso\004_Classes\uClasses.pas</Transaction>
+  </Transactions>
+</BorlandProject>
